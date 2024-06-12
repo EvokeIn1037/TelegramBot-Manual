@@ -1,9 +1,10 @@
-# TelegramBotManual
 ### Telegram Bot
 #### Random pictures
 - Allow search with tags
 - Allow search with uids
 - R18 switch
+#### Pixiv ranking
+- Search pixiv daily/weekly/monthly ranking
 #### Eh manga/doujinshi
 - Allow search
 - Allow search with tags
@@ -21,6 +22,10 @@
 - "/r18on": Turn on r18 function
 - "/r18off": Turn off r18 function
 - "/r18stat": Check r18 status
+#### Pixiv ranking
+- "/day": Daily ranking(top 50, no parameter input counts as 1st)
+- "/week": Weekly ranking
+- "/month": Monthly ranking
 #### Eh manga/doujinshi
 - "/eh": Manga or doujinshi search
 - "/ehtag": Search with tags
