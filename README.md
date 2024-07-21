@@ -8,6 +8,7 @@
 #### Eh manga/doujinshi
 - Allow search
 - Allow search with tags
+- Allow search with characters
 - Allow search with artists
 - Browse expunged galleries
 - Minimum rating
@@ -29,6 +30,7 @@
 #### Eh manga/doujinshi
 - "/eh": Manga or doujinshi search
 - "/ehtag": Search with tags
+- "/ehchara": Search with characters
 - "/ehartist": Search with artists
 - "/ehrate": Set minimum rating(numbers from 0-5)
 - "/ehdel": Browse expunged galleries(on or off)
