@@ -12,6 +12,7 @@
 - Allow search with artists
 - Browse expunged galleries
 - Minimum rating
+- Reset advanced searching settings
 
 ---
 
@@ -20,8 +21,6 @@
 - "/setu": Random pictures
 - "/tag": Pictures with certain tags('+' as and -- less than **3 ands**, '-' as or -- less than **20 ors**)
 - "/uid": Pictures of certain artists(use their uid)
-- "/r18on": Turn on r18 function
-- "/r18off": Turn off r18 function
 - "/r18stat": Check r18 status
 #### Pixiv ranking
 - "/day": Daily ranking(top 50, no parameter input counts as 1st)
@@ -35,6 +34,7 @@
 - "/ehrate": Set minimum rating(numbers from 0-5)
 - "/ehdel": Browse expunged galleries(on or off)
 - "/ehadstat": Check advanced searching status
+- "/ehreset": Reset advanced searching settings
 
 ---
 
