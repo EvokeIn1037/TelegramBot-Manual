@@ -22,6 +22,7 @@
 - "/tag": Pictures with certain tags('+' as and -- less than **3 ands**, '-' as or -- less than **20 ors**)
 - "/uid": Pictures of certain artists(use their uid)
 - "/r18stat": Check r18 status
+- "/info": Check picture information
 #### Pixiv ranking
 - "/day": Daily ranking(top 50, no parameter input counts as 1st)
 - "/week": Weekly ranking
